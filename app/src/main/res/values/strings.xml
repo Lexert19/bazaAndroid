@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Baza</string>
+    <string name="clear_all_data">wyczyść wszytkie dane</string>
+    <string name="website_button">Strona</string>
+    <string name="cancel_button">Anuluj</string>
+    <string name="save_button">Zapisz</string>
+    <string name="edit_button">Edytuj</string>
+
+    <string name="producer">Producent</string>
+    <string name="version">Wersja androida</string>
+    <string name="model">Model</string>
+    <string name="website">Strona internetowa</string>
+
+    <string name="producerError">Pole nie może być puste</string>
+    <string name="versionError">Pole nie może być puste</string>
+    <string name="modelError">Pole nie może być puste</string>
+    <string name="websiteError">Pole nie może być puste</string>
+
+</resources>
